@@ -2,7 +2,7 @@
 
 Build a deep learning framework with some challenging constraints.
 
-#### The Rules
+## The Rules
 
 1. No third-party libraries.
 2. I cannot look at any implementation related to machine learning.
