@@ -14,5 +14,17 @@ For example, I can Google to see what the update rule for Adam is, however, I ca
 
 <img src="backprop_simple_example.jpg" width="600">
 
+## Features Available 
 
-![Image of backprop example](backprop_simple_example.jpg =100x150)
+1. Dense/FC layer
+2. Softmax
+3. SGD limited to batch_size=1
+
+## Features Coming Soon
+
+1. 2D CNN Layer
+2. ReLU, Sigmoid
+3. AdaGrad, RMSProp and Adam
+4. No limit to batch size for optimization
+
+
