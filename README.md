@@ -10,3 +10,4 @@ Build a deep learning framework with some challenging constraints.
 
 For example, I can Google to see what the update rule for Adam is, however, I cannot Google to see how backpropagation works. Instead, learning about backpropagation looks more like the image below.
 
+![Image of backprop example](backprop_simple_example.jpg)
