@@ -1,5 +1,9 @@
 # DL-framework-from-scratch
-Challenge: build a simple deep learning framework with constraints:
+
+Build a deep learning framework with some challenging constraints.
+
+#### The Rules
+
 1. No third-party libraries.
 2. I cannot look at any implementation related to machine learning.
 3. I cannot look into any detailed theory that would help me implement a feature.
