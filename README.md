@@ -18,7 +18,7 @@ For example, I can Google to see what the update rule for Adam is, however, I ca
 
 1. Dense/FC layer
 2. Softmax
-3. SGD limited to batch_size=1
+3. SGD limited to a batch size of 1
 
 ## Features Coming Soon
 
