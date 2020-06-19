@@ -12,7 +12,7 @@ For example, I can Google to see what the update rule for Adam is, however, I ca
 
 
 
-<img src="backprop_simple_example.jpg" width="200">
+<img src="backprop_simple_example.jpg" width="800">
 
 
 ![Image of backprop example](backprop_simple_example.jpg =100x150)
