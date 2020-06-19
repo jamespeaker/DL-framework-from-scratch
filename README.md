@@ -23,7 +23,7 @@ For example, I can Google to see what the update rule for Adam is, however, I ca
 ## Features Coming Soon
 
 1. 2D CNN Layer
-2. ReLU, Sigmoid
+2. ReLU, Sigmoid and tanh
 3. AdaGrad, RMSProp and Adam
 4. No limit to batch size for optimization
 
