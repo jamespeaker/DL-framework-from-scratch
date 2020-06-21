@@ -1,6 +1,6 @@
 # Deep Learning Framework from Scratch
 
-Build a deep learning framework with some challenging constraints.
+Build a simple deep learning framework with some challenging constraints.
 
 
 ## Constraints
