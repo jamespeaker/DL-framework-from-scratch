@@ -4,7 +4,7 @@ Build a simple deep learning framework with some challenging constraints.
 
 ## MNIST Application
 
-<img src="jupyter_screenshot.PNG" width="600">
+<img src="jupyter_screenshot.png" width="600">
 
 <img src="example_in_jupyter_notebook.PNG" width="600">
 
