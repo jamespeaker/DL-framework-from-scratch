@@ -18,7 +18,7 @@ For example, I can Google to see what the update rule for Adam is, however, I ca
 
 
 
-<img src="backprop_simple_example.jpg" width="600">
+<img src="backprop_simple_example.jpg" width="500">
 
 ## Features Available 
 
