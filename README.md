@@ -6,8 +6,6 @@ Build a simple deep learning framework with some challenging constraints.
 
 <img src="jupyter_screenshot.png" width="600">
 
-<img src="example_in_jupyter_notebook.PNG" width="600">
-
 ## Constraints
 
 1. No third-party libraries.
