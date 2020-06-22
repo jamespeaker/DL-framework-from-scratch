@@ -2,6 +2,11 @@
 
 Build a simple deep learning framework with some challenging constraints.
 
+## MNIST Application
+
+
+
+<img src="example_in_jupyter_notebook.PNG" width="600">
 
 ## Constraints
 
