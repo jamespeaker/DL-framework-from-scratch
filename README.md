@@ -4,7 +4,7 @@ Build a simple deep learning framework with some challenging constraints.
 
 ## MNIST Application
 
-<img src="jupyter_screenshot.png" width="600">
+<img src="images_for_readme/jupyter_screenshot.png" width="600">
 
 ## Constraints
 
@@ -16,7 +16,7 @@ For example, I can Google to see what the update rule for Adam is, however, I ca
 
 
 
-<img src="backprop_simple_example.jpg" width="500">
+<img src="images_for_readme/backprop_simple_example.jpg" width="500">
 
 ## Features Available 
 
