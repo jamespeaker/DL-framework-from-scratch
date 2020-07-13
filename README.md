@@ -14,9 +14,9 @@ Build a simple deep learning framework with some challenging constraints.
 
 For example, I can Google to see what the update rule for Adam is, however, I cannot Google to see how backpropagation works. Instead, learning about backpropagation looks more like the image below. These restrictions obviously mean that this project is a lot of trial and error, however, it's taught me a greal deal about how and why deep learning works.
 
-
-
-<img src="images_for_readme/backprop_simple_example.jpg" width="500">
+<p align="center">
+  <img src="images_for_readme/backprop_simple_example.jpg" width="500">
+</p>
 
 ## Features Available 
 
