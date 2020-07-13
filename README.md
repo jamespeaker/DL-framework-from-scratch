@@ -12,7 +12,7 @@ Build a simple deep learning framework with some challenging constraints.
 2. I cannot look at any implementation related to machine learning.
 3. I cannot look into any detailed theory that would help me implement a feature.
 
-For example, I can Google to see what the update rule for Adam is, however, I cannot Google to see how backpropagation works. Instead, learning about backpropagation looks more like the image below.
+For example, I can Google to see what the update rule for Adam is, however, I cannot Google to see how backpropagation works. Instead, learning about backpropagation looks more like the image below. These restrictions obviously mean that this project is a lot of trial and error, however, it's taught me a greal deal about how and why deep learning works.
 
 
 
